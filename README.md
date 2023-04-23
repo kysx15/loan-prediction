@@ -27,6 +27,7 @@ Which variable affects a person’s ability to pay off loans on time the most?
 ## Conclusion
 * Total income is the variable that affects a person's ability to pay off loans on time the most.
 * Not many of the variables in the dataset are closely related to the ability to pay off loans on time.
+* Resampling imbalanced data using upscaling improved model performance especially on the minority class
 * Random Forest with GridSearch cross-validation had higher accuracy, lower false positive rate and lower false negative rate.
 
 ## New things we learnt from this project
