@@ -8,7 +8,7 @@ The database we used can be found here: https://www.kaggle.com/datasets/rikdifos
 For the detailed walkthrough, please view the source code in following order:
 
 1. Data Cleaning
-2. Data Visualization
+2. Data Visualisation
 3. Machine Learning
 
 ## Contributors
