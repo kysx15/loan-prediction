@@ -31,9 +31,13 @@ Which variable affects a person’s ability to pay off loans on time the most?
 * Grouping several rows which have the same value in a column (ID) together and taking the average of a value
 * Upscaling the data to make it more balanced
 * Chi-squared test
+* Target encoding
 * Random Forest
 * GridSearchCV
 
 ## References
 * https://towardsdatascience.com/how-to-export-pandas-dataframe-to-csv-2038e43d9c03
-* 
+* https://www.ibm.com/docs/en/spss-statistics/25.0.0?topic=trees-creating-decision
+* https://www.analyticsvidhya.com/blog/2021/06/understanding-random-forest/
+* https://www.mygreatlearning.com/blog/gridsearchcv/
+* https://vitalflux.com/differences-between-decision-tree-random-forest/#:~:text=Random%20forest%20is%20a%20ensemble,series%20of%20if%2Dthen%20rules.
