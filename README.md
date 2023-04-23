@@ -42,3 +42,4 @@ Which variable affects a person’s ability to pay off loans on time the most?
 * https://www.mygreatlearning.com/blog/gridsearchcv/
 * https://vitalflux.com/differences-between-decision-tree-random-forest/#:~:text=Random%20forest%20is%20a%20ensemble,series%20of%20if%2Dthen%20rules.
 * https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.groupby.html
+* https://towardsdatascience.com/dealing-with-categorical-variables-by-using-target-encoder-a0f1733a4c69
