@@ -31,12 +31,12 @@ Which variable affects a person’s ability to pay off loans on time the most?
 * Random Forest with GridSearch cross-validation had higher accuracy, lower false positive rate and lower false negative rate.
 
 ## New things we learnt from this project
-* Merging two csv files together
+* Merging two csv files together using masking
 * Grouping several rows which have the same value in a column (ID) together and taking the average of a value
-* Upscaling the data to make it more balanced
-* Chi-squared test
+* Upscaling imbalanced data to make it more balanced
+* Concepts about Chi-squared test, Precision, Recall, and F1 Score
 * Target encoding
-* Random Forest
+* Random Forest from sklearn
 * GridSearchCV
 
 ## References
