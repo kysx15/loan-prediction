@@ -17,7 +17,7 @@ SC1015 Lab B137 Team 4
 * Kiersten Yeo Shu Xian (Data Cleaning)
 * Manasarow Gunasekaran (Data Visualisation)
 
-## Problem
+## Problem Statement
 Which variable affects a person’s ability to pay off loans on time the most?
 
 ## Models used
