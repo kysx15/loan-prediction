@@ -13,6 +13,9 @@ For the detailed walkthrough, please view the source code in following order:
 
 ## Contributors
 SC1015 Lab B137 Team 4
+* Puah Rong Qi (Machine Learning)
+* Kiersten Yeo Shu Xian (Data Cleaning)
+* Manasarow Gunasekaran (Data Visualisation)
 
 ## Problem
 Which variable affects a person’s ability to pay off loans on time the most?
